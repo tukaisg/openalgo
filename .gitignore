@@ -50,3 +50,6 @@ venv.bak/
 
 # Tailwind CSS output
 # **/output.css
+
+#add openalgo_env folder
+/openalgo_env/
