@@ -1,0 +1,28 @@
+{
+  "confluence_bot": {
+    "name": "Confluence Bot (Option Buying)",
+    "file_path": "strategies/scripts/confluence_bot.py",
+    "created_at": "2024-12-23T12:00:00",
+    "is_running": false,
+    "is_scheduled": true,
+    "last_started": "2025-12-26T13:19:02.472406+05:30",
+    "pid": null,
+    "last_stopped": "2025-12-26T15:00:00.284434+05:30",
+    "schedule_start": "09:15",
+    "schedule_stop": "15:00",
+    "schedule_days": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "fri"
+    ]
+  },
+  "hedge_bot": {
+    "name": "Live Hedge Bot (Spread)",
+    "file_path": "strategies/scripts/hedge_bot.py",
+    "created_at": "2024-12-22T18:30:00",
+    "is_running": false,
+    "is_scheduled": false
+  }
+}

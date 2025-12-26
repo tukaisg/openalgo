@@ -54,5 +54,13 @@ venv.bak/
 /.next/
 /out/
 
+
 # Tailwind CSS output
 # **/output.css
+
+# Dependency Folders
+openalgo-sdk/
+openalgo-backtrader/
+openalgo-chrome/
+openalgo-mcp/
+historify/
